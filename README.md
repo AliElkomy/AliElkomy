@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Ali El-Komy: Senior Software Developer 
+## Ali El-Komy: Senior Software Developer @ Softec Technologies
 ### 15 Years Experience
 <!--
 **AliElkomy/AliElkomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
