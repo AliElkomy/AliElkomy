@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <a href="https://flowcv.me/alielkomy ">click here to see more details about me</a>
-### <a href ="https://wuzzuf.net/me/Ali-ElKomy"> work Experience</a>
+### <a href="https://flowcv.me/alielkomy" target="_new">click here to see more details about me</a>
+### <a href ="https://wuzzuf.net/me/Ali-ElKomy" target="_new"> work Experience</a>
