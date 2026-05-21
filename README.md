@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Ali El-Komy: Senior FullStack Developer @ IT-Cores
-### 15 Years Experience
+## Ali El-Komy: Senior FullStack Developer 
+### more than 15 Years Experience
 <!--
 **AliElkomy/AliElkomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
